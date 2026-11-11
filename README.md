@@ -1,4 +1,4 @@
-# Bus Ticket Analytics & Intelligence Dashboard
+## Bus Ticket Analytics & Intelligence Dashboard
 
 ## Stack
 Python, Pandas, Streamlit, Plotly.
